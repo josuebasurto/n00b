@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://n00b.mx
+url: http://n00b.herokuapp.com/
 title: n00b
 subtitle: Streaming.
 author: n00bs
