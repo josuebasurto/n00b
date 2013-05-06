@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://n00b.mx
-title: n00b
-subtitle: Streaming.
-author: n00bs
+url: http://yoursite.com
+title: My Octopress Blog
+subtitle: A blogging framework for hackers.
+author: Your Name
 simple_search: http://google.com/search
-description: Serie de novelas Entrepreneur y streaming de la escena Startup. Tecnologia, Ciencia e Innovacion.
+description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
